@@ -1,0 +1,6 @@
+URL
+http://localhost/jangirsamaj/
+
+admin
+phone: 9602065385
+password: 123456
